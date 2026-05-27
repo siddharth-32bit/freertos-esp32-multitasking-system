@@ -1,1 +1,1 @@
-Hardware prototype and reult images.
+Project images.
